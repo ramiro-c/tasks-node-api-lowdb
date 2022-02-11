@@ -1,0 +1,25 @@
+{
+  "name": "lowdb-node-restapi",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "exports": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --ignore ./src/db.json ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "lowdb": "^3.0.0",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7",
+    "url": "^0.11.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
