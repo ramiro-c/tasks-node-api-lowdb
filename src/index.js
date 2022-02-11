@@ -3,6 +3,8 @@ import { createConnection } from "./database.js";
 
 createConnection();
 
-app.listen(3000, ()=> {
-  console.log("Server on port", 3000);
+const PORT = 3002
+
+app.listen(PORT, () => {
+  console.log("Server on port", PORT);
 });
