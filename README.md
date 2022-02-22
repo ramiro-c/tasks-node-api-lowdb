@@ -1,6 +1,6 @@
 # API with NodeJS and LowDB
 
-Created for: [Tasks App](https://github.com/ramiro-c/tasks-reducer-context/blob/main/README.md).
+Created for: [Tasks App](https://github.com/ramiro-c/tasks-reducer-context).
 
 ## Available Scripts
 
