@@ -8,4 +8,4 @@ In the project directory, you can run:
 
 ### `npm run dev`
 
-Starts the server
+Starts the server on PORT 3001
